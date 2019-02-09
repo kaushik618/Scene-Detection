@@ -17,8 +17,7 @@ I would like to thank Yunjey for this amazing tutorial on Pytorch.
   - python setup.py build
   - python setup.py install
   - cd ../../
-  - git clone https://github.com/yunjey/pytorch-tutorial.git
-  - cd pytorch-tutorial/tutorials/03-advanced/image_captioning/
+  - git clone https://github.com/kaushik618/Scene-Detection/
   
 ## 2. Download the dataset
   - pip install -r requirements.txt
