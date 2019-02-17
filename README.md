@@ -6,7 +6,7 @@ I would like to thank Yunjey for this amazing tutorial on Pytorch.
 # Technology Stack 
 - Python <br />
 - Pytorch <br />
-- CNN (image based model) & RNN (Resner 152 - Language based model)
+- CNN (image based model) & RNN (Resnet 152 - Language based model)
 
 # Running the project 
 
